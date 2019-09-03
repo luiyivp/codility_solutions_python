@@ -1,1 +1,1 @@
-# codility-solutions-python
+# Codility solutions Python
